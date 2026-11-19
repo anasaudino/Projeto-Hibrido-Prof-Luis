@@ -1,0 +1,1 @@
+-- vazio de proposito: substitui a regeneracao automatica de vida do Roblox (roguelike: cura so por orbe/mutacao)

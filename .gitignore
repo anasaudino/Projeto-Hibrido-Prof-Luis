@@ -1,0 +1,13 @@
+# Arquivos temporarios do Roblox Studio
+*.rbxl.lock
+*.rbxlx.lock
+*.rbxl.bak
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

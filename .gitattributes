@@ -1,0 +1,5 @@
+* text=auto eol=lf
+*.rbxl binary
+*.rbxm binary
+*.pdf binary
+*.lua text eol=lf linguist-language=Luau
